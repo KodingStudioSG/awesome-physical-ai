@@ -1,0 +1,75 @@
+name: Company suggestion
+description: Suggest a company for the Awesome Physical AI list.
+title: "[Company]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an addition. Please provide enough primary-source evidence for us to verify that the company has substantial Physical AI work.
+
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+      placeholder: Example Robotics
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Proposed category
+      options:
+        - Humanoid and General-Purpose Robotics
+        - Industrial and Warehouse Robotics
+        - Autonomous Vehicles and Mobility
+        - Drones, Defense, and Maritime Autonomy
+        - Agriculture, Construction, and Field Robotics
+        - Embodied AI and Robot Intelligence
+        - Simulation and Physical AI Infrastructure
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: Explain the company's direct Physical AI work in one or two factual sentences.
+      placeholder: The company develops...
+    validations:
+      required: true
+
+  - type: input
+    id: evidence
+    attributes:
+      label: Primary source
+      description: Link to an official product, research, technical, or deployment page that verifies the Physical AI work.
+      placeholder: https://example.com/product
+    validations:
+      required: true
+
+  - type: input
+    id: careers
+    attributes:
+      label: Careers page
+      description: Optional. Add the company's official careers URL if it is actively hiring.
+      placeholder: https://example.com/careers
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched the existing list and open issues for duplicates.
+          required: true
+        - label: The links above are official sources, not affiliate, referral, or tracking links.
+          required: true
