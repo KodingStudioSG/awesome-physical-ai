@@ -13,6 +13,7 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [Agriculture, Construction, and Field Robotics](#agriculture-construction-and-field-robotics)
 - [Embodied AI and Robot Intelligence](#embodied-ai-and-robot-intelligence)
 - [Simulation and Physical AI Infrastructure](#simulation-and-physical-ai-infrastructure)
+- [Learning Physical AI](#learning-physical-ai)
 - [Research Labs](#research-labs)
 - [Open Source](#open-source)
 - [Conferences](#conferences)
@@ -89,6 +90,20 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [Applied Intuition](https://www.applied.co/) - Builds simulation, validation, and autonomy tooling for vehicles, robotics, and defense systems.
 - [NVIDIA Robotics](https://www.nvidia.com/en-us/industries/robotics/) - Develops accelerated computing, Isaac, Omniverse, and AI infrastructure for robotics and Physical AI.
 - [Parallel Domain](https://paralleldomain.com/) - Builds simulation and synthetic data tooling for autonomy and robotics development.
+
+## Learning Physical AI
+
+New to the field, switching into robotics, or trying to understand what skills Physical AI roles actually require? See the [Learning Physical AI guide](learning/README.md).
+
+It includes practical paths for:
+
+- **Robotics software engineering** - Python/C++, Linux, ROS 2, kinematics, planning, and manipulation.
+- **Perception and autonomy** - Computer vision, deep learning, state estimation, mapping, and autonomous systems.
+- **Controls and motion** - Dynamics, feedback control, trajectory optimization, and model-predictive control.
+- **Robot learning and embodied AI** - PyTorch, imitation learning, reinforcement learning, LeRobot, and simulation.
+- **Simulation and validation** - Physics simulation, synthetic environments, sensors, and reproducible testing.
+
+The guide emphasizes durable first-party learning resources and portfolio projects that can translate directly into job-ready evidence. When you are ready to apply what you learned, browse current roles at [PhysicalAI.jobs](https://www.physicalai.jobs/jobs).
 
 ## Research Labs
 
