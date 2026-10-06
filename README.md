@@ -11,6 +11,7 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [Autonomous Vehicles and Mobility](#autonomous-vehicles-and-mobility)
 - [Drones, Defense, and Maritime Autonomy](#drones-defense-and-maritime-autonomy)
 - [Agriculture, Construction, and Field Robotics](#agriculture-construction-and-field-robotics)
+- [Medical and Surgical Robotics](#medical-and-surgical-robotics)
 - [Embodied AI and Robot Intelligence](#embodied-ai-and-robot-intelligence)
 - [Simulation and Physical AI Infrastructure](#simulation-and-physical-ai-infrastructure)
 - [Learning Physical AI](#learning-physical-ai)
@@ -25,7 +26,10 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [Apptronik](https://apptronik.com/) - Develops general-purpose humanoid robots for industrial and commercial deployment.
 - [Boston Dynamics](https://bostondynamics.com/) - Builds highly mobile robots including Atlas, Spot, and Stretch.
 - [Figure AI](https://www.figure.ai/) - Develops commercially deployable general-purpose humanoid robots and embodied AI systems.
+- [Genesis AI](https://www.genesis.ai/) - Builds Eno, a general-purpose robot powered by the GENE robotics foundation model.
+- [Humanoid](https://thehumanoid.ai/) - Develops HMND 01 industrial humanoid robots and the KinetIQ autonomy and learning stack.
 - [NEURA Robotics](https://neura-robotics.com/) - Develops cognitive robots, collaborative systems, and humanoids for industrial and service applications.
+- [Persona AI](https://persona.ai/) - Develops humanoid robots for skilled industrial work in shipyards, energy, construction, and manufacturing.
 - [Sanctuary AI](https://sanctuary.ai/) - Builds general-purpose humanoid robots and control systems for dexterous work.
 - [Sunday Robotics](https://www.sunday.ai/) - Develops helpful home robots designed to perform everyday household tasks.
 
@@ -40,17 +44,19 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [FANUC](https://www.fanuc.com/) - Develops industrial robots, factory automation, and CNC systems.
 - [KUKA](https://www.kuka.com/) - Builds industrial robots and automation systems for manufacturing and logistics.
 - [Mujin](https://www.mujin-corp.com/) - Develops intelligent robot controllers for perception, planning, and industrial automation.
+- [Pickle Robot](https://www.picklerobot.com/) - Builds Physical AI robotic systems for automated truck unloading and inbound logistics.
+- [RobCo](https://www.rob.co/) - Develops autonomous industrial robots and a full-stack Physical AI platform for flexible factory automation.
 - [Symbotic](https://www.symbotic.com/) - Builds AI-powered warehouse automation systems for large-scale supply chains.
 - [Universal Robots](https://www.universal-robots.com/) - Develops collaborative robotic arms designed to work alongside people.
 
 ## Autonomous Vehicles and Mobility
 
 - [Aurora](https://aurora.tech/) - Develops autonomous driving systems for commercial trucking.
-- [Gatik](https://gatik.ai/) - Builds autonomous middle-mile trucking systems for logistics networks.
+- [Gatik](https://www.gatik.ai/) - Builds autonomous middle-mile trucking systems for logistics networks.
 - [Kodiak Robotics](https://kodiak.ai/) - Develops autonomous trucking technology for freight and industrial applications.
 - [May Mobility](https://maymobility.com/) - Builds autonomous vehicle systems for public and shared transportation.
 - [Motional](https://motional.com/) - Develops autonomous driving technology for robotaxi and mobility applications.
-- [Nuro](https://www.nuro.ai/) - Develops autonomous driving technology and delivery-focused vehicle systems.
+- [Nuro](https://www.nuro.ai/) - Develops a universal Level 4 autonomy platform for robotaxis, personal vehicles, and commercial fleets.
 - [Tesla](https://www.tesla.com/) - Develops autonomous driving, robotaxi, vehicle AI, and the Optimus humanoid robot.
 - [Torc Robotics](https://torc.ai/) - Develops autonomous driving systems for long-haul trucking.
 - [Waabi](https://waabi.ai/) - Builds autonomous trucking systems using AI-first development and simulation.
@@ -63,6 +69,9 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [AeroVironment](https://www.avinc.com/) - Develops unmanned aircraft, loitering systems, robotics, and autonomous defense platforms.
 - [Anduril](https://www.anduril.com/) - Builds autonomous defense systems, aircraft, sensors, and AI-enabled hardware.
 - [Helsing](https://helsing.ai/) - Develops AI and autonomous systems for defense, sensing, and deployed physical platforms.
+- [Neros Technologies](https://www.neros.tech/) - Builds autonomy-enabled unmanned aircraft and counter-UAS systems for defense.
+- [Overland AI](https://www.overland.ai/) - Develops autonomous ground vehicles and off-road autonomy software for defense and contested environments.
+- [Saildrone](https://www.saildrone.com/) - Builds and operates autonomous surface vehicles for maritime intelligence, mapping, research, and defense.
 - [Saronic](https://www.saronic.com/) - Builds autonomous surface vessels and maritime systems for defense applications.
 - [Shield AI](https://shield.ai/) - Develops autonomous aircraft and Hivemind, an AI pilot for contested environments.
 - [Skydio](https://www.skydio.com/) - Builds autonomous drones for inspection, public safety, defense, and enterprise operations.
@@ -77,12 +86,20 @@ Looking for work in this field? [PhysicalAI.jobs](https://www.physicalai.jobs/) 
 - [Gravis Robotics](https://www.gravisrobotics.com/) - Develops autonomous systems for heavy machinery and demanding field environments.
 - [Outrider](https://www.outrider.ai/) - Builds autonomous yard operations systems for freight and logistics facilities.
 
+## Medical and Surgical Robotics
+
+- [Johnson & Johnson MedTech](https://www.jnjmedtech.com/) - Develops OTTAVA, a table-integrated soft-tissue robotic surgical system.
+- [Medtronic](https://www.medtronic.com/) - Develops the Hugo robotic-assisted surgery platform for minimally invasive procedures.
+- [Stryker](https://www.stryker.com/) - Develops Mako robotic-assisted orthopaedic surgery platforms, including robotic-arm and handheld systems.
+
 ## Embodied AI and Robot Intelligence
 
+- [Dyna Robotics](https://www.dyna.co/) - Develops robot foundation models and general-purpose physical agents for commercial and industrial workflows.
 - [FieldAI](https://www.fieldai.com/) - Develops general-purpose robot intelligence for complex, unstructured real-world environments.
 - [General Intuition](https://www.generalintuition.com/) - Researches models that learn to perceive, predict, and act across space and time.
 - [Intrinsic](https://intrinsic.ai/) - Develops software and AI infrastructure for intelligent industrial robotics.
 - [Physical Intelligence](https://www.physicalintelligence.company/) - Develops general-purpose foundation models for robots and physical interaction.
+- [Sereact](https://sereact.ai/) - Develops embodied AI for robotic manipulation and warehouse picking.
 - [Skild AI](https://www.skild.ai/) - Develops general-purpose robot intelligence intended to transfer across tasks and embodiments.
 
 ## Simulation and Physical AI Infrastructure
